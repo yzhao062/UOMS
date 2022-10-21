@@ -1,0 +1,43 @@
+# arff: 18
+#['Annthyroid',
+# 'Arrhythmia',
+# 'Cardiotocography',
+# 'HeartDisease',
+# 'InternetAds',
+# 'PageBlocks',
+# 'Pima',
+# 'SpamBase',
+# 'Stamps',
+# 'Wilt',
+# 'ALOI',
+# 'Glass',
+# 'PenDigits',
+# 'Shuttle',
+# 'Waveform',
+# 'WBC',
+# 'WDBC',
+# 'WPBC']:
+
+# mat: 21
+#['wine'
+#'lympho',
+#'glass',
+#'vertebral',
+#'ionosphere',
+#'wbc',
+#'arrhythmia',
+#'breastw',
+#'pima',
+#'vowels',
+#'letter',
+#'musk',
+#'speech',
+#'thyroid',
+#'optdigits',
+#'satimage-2',
+#'satellite',
+#'pendigits',
+#'annthyroid',
+#'mnist',
+#'mammography']
+
